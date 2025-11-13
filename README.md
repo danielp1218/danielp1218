@@ -1,5 +1,5 @@
 Hi, I'm Daniel!👋
 
-Studying @ UWaterloo CS
+UWaterloo CS '30!
 
 I code a lot
