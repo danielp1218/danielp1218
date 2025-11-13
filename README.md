@@ -1,3 +1,5 @@
 Hi, I'm Daniel!👋
 
-UWaterloo CS '30!
+Studying @ UWaterloo CS
+
+I code a lot
