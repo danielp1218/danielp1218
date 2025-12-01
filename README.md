@@ -8,14 +8,14 @@
 </p>
 
 ---
-### About Me
+## About Me
 - Hackathon spammer (**<span style="color: #d16effff;">17x</span>** hackathon winner)
 - Love experimenting with new technologies and building user-facing projects that people actually want to use
 - Currently obsessed about **<span style="color: #F7B93E; text-shadow: 0 0 10px #F7B93E;">SCALE</span>** ✨
-- Always down to chat about AI, web dev, or the next hackathon idea 💬
+- Always down to chat about AI, web apps, or the next hackathon idea 💬
 
 ---
-### Tech I Use
+## Tech I Use
 
 **Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)   
