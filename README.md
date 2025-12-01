@@ -9,9 +9,9 @@
 
 ---
 ## About Me
-- Hackathon spammer (**<span style="color: #d16effff;">17x</span>** hackathon winner)
+- Hackathon spammer (**17x** hackathon winner)
 - Love experimenting with new technologies and building user-facing projects that people actually want to use
-- Currently obsessed about **<span style="color: #F7B93E; text-shadow: 0 0 10px #F7B93E;">SCALE</span>** ✨
+- Currently obsessed about ***SCALE***
 - Always down to chat about AI, web apps, or the next hackathon idea 💬
 
 ---
