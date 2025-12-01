@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>Currently studying <strong>Computer Science</strong> @ <strong>UWaterloo</strong></em><br>
-  <sub>Looking for S26 internships 👀</sub>
+  <sub>Looking for summer 2026 internships 👀</sub>
 </p>
 
 ---
