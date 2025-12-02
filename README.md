@@ -11,8 +11,8 @@
 ## About Me
 - Hackathon spammer (**17x** hackathon winner)
 - Love experimenting with new technologies and building user-facing projects that people actually want to use
-- Currently obsessed about ***SCALE***
-- Always down to chat about AI, web apps, or the next hackathon idea 💬
+- Currently obsessed with how apps ***SCALE***
+- Always down to chat about AI, architecture, or the next project idea 💬
 
 ---
 ## Tech I Use
