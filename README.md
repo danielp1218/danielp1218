@@ -7,14 +7,12 @@
   <sub>Looking for spring/summer 2026 internships 👀</sub>
 </p>
 
----
 ## About Me
 - Hackathon enthusiast (**17x** hackathon winner)
 - Love experimenting with new technologies and building user-facing projects that people actually want to use
 - Currently obsessed with how apps ***SCALE***
 - Always down to chat about AI, architecture, or the next project idea 💬
 
----
 ## Tech I Use
 
 **Languages**  
@@ -26,11 +24,10 @@
 **Platforms**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=fff) ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=F0F0F0) ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
 
----
 ## Github Stats
 <img src="https://danielpu.dev/images/github-stats" style="height:300px">
 
-Connect with me :)  
+### Connect with me :)  
 [Website](https://danielpu.dev) | [LinkedIn](https://linkedin.com/in/danielpu1)
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=danielp1218&style=flat-square**)
