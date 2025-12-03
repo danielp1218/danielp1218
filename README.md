@@ -9,7 +9,7 @@
 
 ---
 ## About Me
-- Hackathon spammer (**17x** hackathon winner)
+- Hackathon enthusiast (**17x** hackathon winner)
 - Love experimenting with new technologies and building user-facing projects that people actually want to use
 - Currently obsessed with how apps ***SCALE***
 - Always down to chat about AI, architecture, or the next project idea 💬
@@ -27,8 +27,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 
-
 ---
+Connect with me :)  
 [Website](https://danielpu.dev) | [LinkedIn](https://linkedin.com/in/danielpu1)
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=danielp1218&style=flat-square**)
