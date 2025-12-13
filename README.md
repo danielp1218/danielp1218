@@ -1,5 +1,5 @@
-r<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I%27m%20Daniel!%20%F0%9F%91%8B&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=fff" />
+<div align="center">
+  <img src="https://danielpu.dev/images/header.svg"/>
 </div>
 
 <p align="center">
