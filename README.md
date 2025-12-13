@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://danielpu.dev/images/header.svg"/>
+  <img src="https://danielpu.dev/header.svg"/>
 </div>
 
 <p align="center">
